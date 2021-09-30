@@ -87,28 +87,39 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+* IDE (eg. vscode, sublime)
+* Python 3.8 +
+* Django 3.0+
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### Installation Instructions
 
+If you want to work with this project or create a version of it make sure to follow the steps below!
 
+0. Make sure to install ` Python 3 `, ` pip ` and ` virtualenv `   
+1. Create a project folder
+   
+    ```bash
+        $ mkdir project
+        $ cd project
+    ```
+2. Create a python 3 virtualenv, and activate the environment to install requirements.
+    ```bash
+        $ python3 -m venv env
+        $ source env/bin/activate
+    ``` 
+3. Install the project dependencies from `requirements.txt`
+    ```
+        (env)$ pip install -r requirements.txt
+    ```
+4. Clone the repository
+   
+    ```bash
+        (env)$ git clone https://github.com/akhil-s-kumar/django-blog-app.git
+        (env)$ cd django-blog-app
+    ```
+
+You have now successfully set up the project on your environment.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
