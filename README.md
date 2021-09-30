@@ -10,7 +10,7 @@
 
   
   <p  align="center">
-  <i>PWA where users can register/login and can post their articles or can share, like and comments.</i>
+  <i>PWA where users can register/login and can post/edit their articles or can share, like and comments.</i>
   </p>
 </p>
 
