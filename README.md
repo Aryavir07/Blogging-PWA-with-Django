@@ -129,7 +129,7 @@ If you want to work with this project or create a version of it make sure to fol
             'ckeditor_uploader',
             'crispy_forms',
     )
-
+```
 You have now successfully set up the project on your environment.
 
 <!-- USAGE EXAMPLES -->
