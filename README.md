@@ -130,9 +130,7 @@ If you want to work with this project or create a version of it make sure to fol
     ```
         Your server is now live on http://127.0.0.1:8000
     ```
-    <p>
-    
-    </p>
+    </br>
 You have now successfully set up the project on your environment.
 
 <!-- ROADMAP -->
@@ -195,7 +193,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_linkedin](https://www.linkedin.com/in/aryavir07/)
+Your Name - [@aryavir07](https://www.linkedin.com/in/aryavir07/)
 
 Project Link: [https://github.com/Aryavir07/Blogging-PWA-with-Django](https://github.com/Aryavir07/Blogging-PWA-with-Django)
 
