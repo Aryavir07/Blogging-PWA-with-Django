@@ -11,6 +11,7 @@
   <p  align="center">
   <i>PWA where users can register/login and can post their articles or can share, like and comments.</i>
   </p>
+ <p>
   <p align="center">
 
     <a href="https://djangoblogdeployed.herokuapp.com/"  target="_blank">View Demo</a>
