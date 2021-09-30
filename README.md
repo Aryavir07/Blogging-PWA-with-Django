@@ -112,12 +112,7 @@ If you want to work with this project or create a version of it make sure to fol
     ```
 5. Add ```ckeditor, django_filter, crispy_forms``` and ```rest_framework``` to your ```INSTALLED_APPS``` in ```settings.py```:
     ```
-        Your server is now live on http://127.0.0.1:8000
-    ```
-    
-  6. Run server:
-    ```
-        INSTALLED_APPS = (
+         INSTALLED_APPS = (
             ...
                 'django_filters',
                 'rest_framework',
@@ -125,6 +120,13 @@ If you want to work with this project or create a version of it make sure to fol
                 'ckeditor_uploader',
                 'crispy_forms',
         )
+        
+        
+    ```
+    
+  6. Run server:
+    ```
+        Your server is now live on http://127.0.0.1:8000
     ```
 You have now successfully set up the project on your environment.
 
