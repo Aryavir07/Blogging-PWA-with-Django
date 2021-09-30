@@ -57,7 +57,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/42632417/135388133-1efd40c2-e9f9-4a4b-808e-af596f1a9e84.png)
+</br>
+![image](https://user-images.githubusercontent.com/42632417/135388269-a9d3d764-bfbe-4754-89a2-acb592aaa18b.png)
+</br>
+![image](https://user-images.githubusercontent.com/42632417/135388350-5b464aab-5cdb-4602-98b6-78dd84c4d662.png)
+
+#### And many more....
 
 This is a demo project for learning Django framework. The idea was to build some basic blogging webapp that has all features of blogging websites like Medium etc.
 
