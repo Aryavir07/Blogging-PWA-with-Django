@@ -78,9 +78,6 @@ User has his own blog page, where he can add new blog posts.
 Every authenticated user can comment on posts made by other users. Home page is paginated list of all posts. 
 Non-authenticated users can see all blog posts, but cannot add new posts or like/comment.
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 ## Features
 
 - Dashboard for Authors
