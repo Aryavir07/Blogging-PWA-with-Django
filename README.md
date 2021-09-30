@@ -83,31 +83,31 @@ Non-authenticated users can see all blog posts, but cannot add new posts or like
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 ## Features
 
-· Dashboard for Authors
-· WYSIWYG Editor
-· Account Verification 
-· Author Login
-· Author Password Reset
-· New Category Submission
-· Related Articles
-· Comments
-· Articles Search
-· Tag Related Articles
-· Markdown Support
-· Responsive on all devices
-· Pagination
+- Dashboard for Authors
+- WYSIWYG Editor
+- Account Verification 
+- Author Login
+- Author Password Reset
+- New Category Submission
+- Related Articles
+- Comments
+- Articles Search
+- Tag Related Articles
+- Markdown Support
+- Responsive on all devices
+- Pagination
 
 ## Technologies
-· Font awesome
-· CKEditor
-· SQLite
-· Python 3.8
-· Javascript
-· Jquery 
-· Django 3
-· HTML5
-· CSS3 
-· Bootstrap 4
+- Font awesome
+- CKEditor
+- SQLite
+- Python 3.8
+- Javascript
+- Jquery 
+- Django 3
+- HTML5
+- CSS3 
+- Bootstrap 4
 
 
 
