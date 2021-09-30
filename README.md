@@ -5,8 +5,8 @@
 
   <h3 align="center">Progressive Web App With Django 3</h3>
   </br>
-  <p>
-  PWA where users can register/login and can post their articles or can share, like and comments.
+  <p  align="center">
+  <i>PWA where users can register/login and can post their articles or can share, like and comments.</i>
   </p>
   <p align="center">
     <br />
