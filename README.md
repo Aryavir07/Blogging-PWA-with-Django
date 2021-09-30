@@ -127,7 +127,9 @@ You have now successfully set up the project on your environment.
 ## Roadmap
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/42632417/135386431-449bf4cf-a2a6-4c17-be51-0e5f30656b2e.png)
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/42632417/135386431-449bf4cf-a2a6-4c17-be51-0e5f30656b2e.png" alt="Logo">
+  </a>
 <p>Diagram credit: Dragan Savić, Mario Ilić, Jaka Sodnik, Anton Kos, Sara Stančin, Sašo Tomažič</p>
 </p>
 
