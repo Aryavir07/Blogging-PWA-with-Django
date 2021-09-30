@@ -110,6 +110,7 @@ If you want to work with this project or create a version of it make sure to fol
         (env)$ git clone https://github.com/Aryavir07/Blogging-PWA-with-Django.git
         (env)$ cd django-blogging-webapp
     ```
+    
 5. Add ```ckeditor, django_filter, crispy_forms``` and ```rest_framework``` to your ```INSTALLED_APPS``` in ```settings.py```:
     ```
          INSTALLED_APPS = (
@@ -120,14 +121,18 @@ If you want to work with this project or create a version of it make sure to fol
                 'ckeditor_uploader',
                 'crispy_forms',
         )
-        
-        
+
     ```
+    <p>
     
+    </p>
   6. Run server:
     ```
         Your server is now live on http://127.0.0.1:8000
     ```
+    <p>
+    
+    </p>
 You have now successfully set up the project on your environment.
 
 <!-- ROADMAP -->
