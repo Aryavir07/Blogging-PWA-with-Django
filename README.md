@@ -111,16 +111,21 @@ If you want to work with this project or create a version of it make sure to fol
         (env)$ cd django-blogging-webapp
     ```
 5. Add ```ckeditor, django_filter, crispy_forms``` and ```rest_framework``` to your ```INSTALLED_APPS``` in ```settings.py```:
-```
-    INSTALLED_APPS = (
-        ...
-            'django_filters',
-            'rest_framework',
-            'ckeditor',
-            'ckeditor_uploader',
-            'crispy_forms',
-    )
-```
+    ```
+        Your server is now live on http://127.0.0.1:8000
+    ```
+    
+  6. Run server:
+    ```
+        INSTALLED_APPS = (
+            ...
+                'django_filters',
+                'rest_framework',
+                'ckeditor',
+                'ckeditor_uploader',
+                'crispy_forms',
+        )
+    ```
 You have now successfully set up the project on your environment.
 
 <!-- ROADMAP -->
