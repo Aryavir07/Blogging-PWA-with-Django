@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" alt="Logo" width="80" height="80">
+    <img src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" alt="Logo" width="150" height="200">
   </a>
 
   <h3 align="center">Progressive Web App With Django 3</h3>
