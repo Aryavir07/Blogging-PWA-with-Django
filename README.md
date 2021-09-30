@@ -4,6 +4,10 @@
   </a>
 
   <h3 align="center">Progressive Web App With Django 3</h3>
+  </br>
+  <p>
+  PWA where users can register/login and can post their articles or can share, like and comments.
+  </p>
   <p align="center">
     <br />
     <a href="https://djangoblogdeployed.herokuapp.com/"  target="_blank">View Demo</a>
