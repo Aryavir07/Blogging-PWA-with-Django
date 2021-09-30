@@ -4,18 +4,13 @@
   </a>
 
   <h3 align="center">Progressive Web App With Django 3</h3>
-
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://djangoblogdeployed.herokuapp.com/"  target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/issues"  target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/issues"  target="_blank">Request Feature</a>
   </p>
 </p>
 
