@@ -119,6 +119,16 @@ If you want to work with this project or create a version of it make sure to fol
         (env)$ git clone https://github.com/Aryavir07/Blogging-PWA-with-Django.git
         (env)$ cd django-blogging-webapp
     ```
+5. Add ```ckeditor, django_filter, crispy_forms``` and ```rest_framework``` to your ```INSTALLED_APPS``` in ```settings.py```:
+```
+    INSTALLED_APPS = (
+        ...
+            'django_filters',
+            'rest_framework',
+            'ckeditor',
+            'ckeditor_uploader',
+            'crispy_forms',
+    )
 
 You have now successfully set up the project on your environment.
 
