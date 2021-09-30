@@ -78,37 +78,6 @@ User has his own blog page, where he can add new blog posts.
 Every authenticated user can comment on posts made by other users. Home page is paginated list of all posts. 
 Non-authenticated users can see all blog posts, but cannot add new posts or like/comment.
 
-## Features
-
-- Dashboard for Authors
-- WYSIWYG Editor
-- Account Verification 
-- Author Login
-- Author Password Reset
-- New Category Submission
-- Related Articles
-- Comments
-- Articles Search
-- Tag Related Articles
-- Markdown Support
-- Responsive on all devices
-- Pagination
-
-## Technologies
-- Font awesome
-- CKEditor
-- SQLite
-- Python 3.8
-- Javascript
-- Jquery 
-- Django 3
-- HTML5
-- CSS3 
-- Bootstrap 4
-
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -167,6 +136,39 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+## Features
+
+- Dashboard for Authors
+- WYSIWYG Editor
+- Account Verification 
+- Author Login
+- Author Password Reset
+- New Category Submission
+- Related Articles
+- Comments
+- Articles Search
+- Tag Related Articles
+- Markdown Support
+- Responsive on all devices
+- Pagination
+
+## Technologies
+- Font awesome
+- CKEditor
+- SQLite
+- Python 3.8
+- Javascript
+- Jquery 
+- Django 3
+- HTML5
+- CSS3 
+- Bootstrap 4
+
+
+
+
 
 
 
