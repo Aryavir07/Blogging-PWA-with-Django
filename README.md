@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="/">
+  <a href="#">
     <img src="https://thumbs.dreamstime.com/b/go-to-web-icon-trendy-flat-style-isolated-grey-background-website-pictogram-internet-symbol-your-web-site-design-logo-137568495.jpg" alt="Logo" width="80" height="80">
   </a>
 
