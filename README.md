@@ -1,5 +1,14 @@
-# Blogging website
-![Like unlike](https://user-images.githubusercontent.com/42632417/103146722-6074a380-4773-11eb-87cf-7e5f41126b61.JPG)
-![new post](https://user-images.githubusercontent.com/42632417/103146726-65395780-4773-11eb-9881-814c824dd3fd.JPG)
-![BLOG](https://user-images.githubusercontent.com/42632417/103146727-65d1ee00-4773-11eb-83b3-43f81185e613.JPG)
-![User profile](https://user-images.githubusercontent.com/42632417/103146729-67031b00-4773-11eb-9e18-a9cc1efb0625.JPG)
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
