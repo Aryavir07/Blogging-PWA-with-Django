@@ -89,8 +89,9 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 * IDE (eg. vscode, sublime)
-* Python 3.8 +
+* Python 3.8+
 * Django 3.0+
+* Git
 
 ### Installation Instructions
 
@@ -115,8 +116,8 @@ If you want to work with this project or create a version of it make sure to fol
 4. Clone the repository
    
     ```bash
-        (env)$ git clone https://github.com/akhil-s-kumar/django-blog-app.git
-        (env)$ cd django-blog-app
+        (env)$ git clone https://github.com/Aryavir07/Blogging-PWA-with-Django.git
+        (env)$ cd django-blogging-webapp
     ```
 
 You have now successfully set up the project on your environment.
