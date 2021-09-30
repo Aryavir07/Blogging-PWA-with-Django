@@ -1,13 +1,4 @@
-<p align="left">
-    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/issues" alt="Issues">
-        <img src="" /></a>
-    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/pulls" alt="Pull Requests">
-        <img src="" /></a>
-    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/network/members" alt="Forks">
-        <img src="" /></a>
-    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/stargazers" alt="Stars">
-        <img src="" /></a>
-</p>
+
 <p align="center">
   <a href="#">
     <img src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" alt="Logo">
