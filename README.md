@@ -13,6 +13,17 @@
   </p>
 </p>
 
+<p>
+   <p align="center">
+
+    <a href="https://djangoblogdeployed.herokuapp.com/"  target="_blank">View Demo</a>
+    ·
+    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/issues"  target="_blank">Report Bug</a>
+    ·
+    <a href="https://github.com/Aryavir07/Blogging-PWA-with-Django/issues"  target="_blank">Request Feature</a>
+  </p>
+</p>
+
 
 
 <!-- TABLE OF CONTENTS -->
