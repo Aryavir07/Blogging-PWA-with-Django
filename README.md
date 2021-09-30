@@ -27,8 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-q1z2xz%2F&psig=AOvVaw08bUmYtDGhCdnvjdQnjNZS&ust=1633058447165000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGkv7epfMCFQAAAAAdAAAAABAD">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-q1z2xz%2F&psig=AOvVaw08bUmYtDGhCdnvjdQnjNZS&ust=1633058447165000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGkv7epfMCFQAAAAAdAAAAABAD" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
