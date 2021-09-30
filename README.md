@@ -135,7 +135,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+![image](https://user-images.githubusercontent.com/42632417/135386431-449bf4cf-a2a6-4c17-be51-0e5f30656b2e.png)
+<p>Diagram credit: Dragan Savić, Mario Ilić, Jaka Sodnik, Anton Kos, Sara Stančin, Sašo Tomažič</p>
 
 
 
