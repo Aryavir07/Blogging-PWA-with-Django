@@ -199,7 +199,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@aryavir07](https://www.linkedin.com/in/aryavir07/)
+Aryaveer Singh - [@aryavir07](https://www.linkedin.com/in/aryavir07/)
 
 Project Link: [https://github.com/Aryavir07/Blogging-PWA-with-Django](https://github.com/Aryavir07/Blogging-PWA-with-Django)
 
