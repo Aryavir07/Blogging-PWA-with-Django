@@ -189,20 +189,6 @@ Contributions are what make the open source community such an amazing place to l
 - CSS3 
 - Bootstrap 4
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact
-
-Aryaveer Singh - [@aryavir07](https://www.linkedin.com/in/aryavir07/)
-
-Project Link: [https://github.com/Aryavir07/Blogging-PWA-with-Django](https://github.com/Aryavir07/Blogging-PWA-with-Django)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
